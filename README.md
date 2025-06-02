@@ -44,6 +44,5 @@ int main() {
              << "\033[0m and \033[1;31m" << root2 << "\033[0m" << endl;
     }
 
-    // Step 6: End
     return 0;
 }
